@@ -1,0 +1,23 @@
+{
+\t"name": "malvin-c-music-bot",
+\t"version": "1.0.0",
+\t"description": "MALVIN C MUSIC WhatsApp Multi-Device Bot by handsome tech (Zimbabwe)",
+\t"main": "index.js",
+\t"scripts": {
+\t\t"start": "node index.js",
+\t\t"dev": "node index.js"
+\t},
+\t"keywords": [
+\t\t"whatsapp-bot",
+\t\t"whatsapp-multi-device",
+\t\t"music-bot",
+\t\t"zimbabwe"
+\t],
+\t"author": "handsome tech (Zimbabwe)",
+\t"license": "MIT",
+\t"dependencies": {
+\t\t"@whiskeysockets/baileys": "^latest",
+\t\t"fs-extra": "^11.2.0",
+\t\t"dotenv": "^16.4.5"
+\t}
+}
